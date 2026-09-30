@@ -84,9 +84,6 @@ Results are written to `outputs/`, and each script's printed output goes to `out
 
 ---
 
-## Citation
-
-Please cite the article above if you use this code. Citation metadata are in `CITATION.cff`; GitHub shows a "Cite this repository" button.
 
 ## Contact
 
